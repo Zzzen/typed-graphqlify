@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.1-alpha
+
+- Delete unused type helper by @acro5piano
+
 ## 2.0.0-alpha
 
 - Split the code and Overload the query function by @YardWill
